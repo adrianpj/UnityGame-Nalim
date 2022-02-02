@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f62360325f01e194da9fe71742ee98d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bTitan: {instanceID: 0}
+  - bEnemy: {instanceID: 0}
+  - bNila: {instanceID: 0}
+  - bJack: {instanceID: 0}
+  - bBarda: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,149 @@
+Key,Description,Standard,Spanish,Catalan,English
+SAY._CommandCopyBuffer.19.,,Estás en el CARTEL,,,
+CHARACTER.NILA,,NILA,NILA,NILA,NILA
+MENU.Flowchart_Esc3_ESP.350,,(4A),,,
+MENU.Flowchart_Esc3_ESP.25,,Ir hacia el centro del BOSQUE,Ir hacia el centro del BOSQUE,Anar al centre del BOSC,Go to FOREST center
+MENU.Flowchart_Esc3_ESP.34,,Huir,Huir,Fugir,Escape
+MENU.Flowchart_Esc3_ESP.33,,Atacar,Atacar,Atacar,Fight
+MENU.Flowchart_Esc3_ESP.4,,Entrar en el bosque,Entrar en el bosque,Entrar al bosc,Enter to FOREST
+MENU.Flowchart_Esc3_ESP.6,,Volver al cruce,Volver al cruce,Tornar a l'encreuament,Back to CROSSGROUND
+MENU.Flowchart_Esc3_ESP.24,,Acercarse al ACANTILADO,Acercarse al ACANTILADO,Acostar-se al PENYA-SEGAT,Approach to CLIFF
+MENU.Flowchart_Esc3_ESP.8,,Seguir dando vueltas en el BOSQUE,Seguir dando vueltas en el BOSQUE,Seguir donant voltes al BOSC,Hold go around at FOREST
+SAY.Flowchart_Esc3_ESP.23.,,Se adentró dentro del bosque,Se adentró dentro del bosque,S'ha endinsat en el bosc,You're under the FOREST
+MENU.Flowchart_Esc3_ESP.32,,"¡Y a ti qué te importa, mocosa!","¡Y a ti qué te importa, mocosa!","I a tu què t'importa, mocosa!",Why do you care you brat!
+MENU.Flowchart_Esc3_ESP.31,,Vengo en nombre del rey,Vengo en nombre del rey,Vinc en nom del rei,I come under the King's command
+MENU.Flowchart_Esc3_ESP.29,,Estoy perdido,Estoy perdido,Estic perdut,I got lost
+SAY.Flowchart_Esc3_ESP.28.NILA,NILA,¿Qué haces en mi bosque?,¿Qué haces en mi bosque?,Què fas en el meu bosc?,What are you doing in my forest?
+MENU.Flowchart_Esc3_ESP.175,,Ir a la HOGUERA,Ir a la HOGUERA,Anar a la FOGUERA,Go to BONFIRE
+SAY.Flowchart_Esc3_ESP.38.NILA,,"Dime, ¿de dónde eres?","Dime, ¿de dónde eres?","Digue'm, d'on ets?","So tell me, where are you from?"
+SAY.Flowchart_Esc3_ESP.37.NILA,,...,...,...,...
+SAY.Flowchart_Esc3_ESP.36.NILA,,Acompáñanos\n,Acompáñanos,Acompanya'ns,Join us
+SAY.Flowchart_Esc3_ESP.35.NILA,,"Normal, la gente suele perderse por aquí. ¿O acaso has visto a alguien más?","Normal, la gente suele perderse por aquí. ¿O acaso has visto a alguien más?","Normal, la gent se sol perdre en aquest lloc. O has vist algú més per aquí?",People usually get lost around these parts. Or have you seen anyone else?
+MENU.Flowchart_Esc3_ESP.46,,"Bueno, recuerdo a ese lobo. Creo que era mi mascota.","Bueno, recuerdo a ese lobo. Creo que era mi mascota.","Bé, recordo a aquest llop. Crec que era la meva mascota.","Well, I do remember that wolf. I think it was my pet."
+MENU.Flowchart_Esc3_ESP.45,,"Lo único que sé es mi nombre, lo tenía aquí apuntado","Lo único que sé es mi nombre, lo tenía aquí apuntado","L’únic que sé és el meu nom, que el tinc aquí escrit",I know what my name is. I have it written here.
+SAY.Flowchart_Esc3_ESP.44.NILA,,Eso es muy triste...,Eso es muy triste...,Això és molt trist...,That's so sad...
+SAY.Flowchart_Esc3_ESP.43.NILA,,¿Y no recuerdas nada? ¿Y ni siquiera tu nombre?,¿Y no recuerdas nada? ¿Y ni siquiera tu nombre?,I no recordes res? Ni tan sols el teu nom?,And you don't remember anything? Not even your name?
+MENU.Flowchart_Esc3_ESP.41,,No tengo porqué contestarte,No tengo porqué contestarte,No tinc per què contestar-te,I don't have to answer to you.
+MENU.Flowchart_Esc3_ESP.40,,"Del noroeste, del castillo de esta zona","Del noroeste, del castillo de esta zona","Del nord-oest, del castell d'aquella zona",From the castle northwest from here.
+MENU.Flowchart_Esc3_ESP.39,,"No lo sé, he despertado en una cueva","No lo sé, he despertado en una cueva","No ho sé, he despertat en una cova","I don't know, I woke up on some cave."
+MENU.Flowchart_Esc3_ESP.80,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agraeixo, però desitjo anar-me'n aquesta nit","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.78,,Buenas noches,Buenas noches,Bona nit,Good night
+SAY.Flowchart_Esc3_ESP.75.NILA,,Mañana por la mañana te\nacompañaré a la salida.,Mañana por la mañana te acompañaré a la salida.,Demà pel matí t'acompanyaré a la sortida.,Tomorrow I'll show you the way out.
+SAY.Flowchart_Esc3_ESP.74.NILA,,Tú sabras lo que quieres creer.,Tú sabras lo que quieres creer.,Tu sabràs el que vols creure.,You can think whatever you want.
+SAY.Flowchart_Esc3_ESP.72.,,NILA entregó a ti una FRUTA MÁGICA,NILA entregó a ti FRUTAS MÁGICAS,La NILA t'entregà FRUITES MÀGIQUES,You obtain from NILA MAGICS FRUITS
+MENU.Flowchart_Esc3_ESP.71,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agreixo, però desitjo marxar aquesta nit.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.70,,"Gracias, pero espera un momento. Quiero contarte algo.","Gracias, pero espera un momento. Quiero contarte algo.","Gràcies, però espera un moment. Vull dir-te una cosa.","Thanks, but wait a second, I want to tell you something else."
+MENU.Flowchart_Esc3_ESP.69,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and may you rest well too."
+SAY.Flowchart_Esc3_ESP.68.NILA,,"Y toma, un regalo, lo vas a necesitar.","Y toma, un regalo, lo vas a necesitar.","Té un regal, el necessitaràs","Here, take this, you will need it."
+SAY.Flowchart_Esc3_ESP.67.NILA,,Puedes dormir aquí y mañana te\nacompañaré para que puedas salir.,Puedes dormir aquí y mañana te acompañaré para que puedas salir.,Pots dormir aquí i demà t'acompanyaré per a que puguis sortir.,"You can sleep here, tomorrow I'll show you the way out of this forest."
+SAY.Flowchart_Esc3_ESP.66.NILA,,Deberías descansar.,Deberías descansar.,Hauries de descansar.,You should rest.
+MENU.Flowchart_Esc3_ESP.64,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agraeixo, però desitjo anar-me'n aquesta nit.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.63,,"Gracias, pero espera un momento. Quiero contarte algo.","Gracias, pero espera un momento. Quiero contarte algo.","Gràcies, però espera un moment. Vull dir-te una cosa.","Thanks, but wait a second I want to tell you something else."
+MENU.Flowchart_Esc3_ESP.62,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and rest well too."
+SAY.Flowchart_Esc3_ESP.61.,,NILA entregó a ti BOLSA DE ALIMENTOS y FRUTAS MÁGICAS,NILA entregó a ti FRUTAS MÁGICAS,La NILA t'entregà una FRUITES MÀGIQUES,You obtain from NILA a MAGIC FRUIT
+SAY.Flowchart_Esc3_ESP.60.NILA,,"Y toma, un regalo, lo vas a necesitar.","Y toma, un regalo, lo vas a necesitar.","Té, un regal, el necessitaràs","Here, take this, you will need it."
+SAY.Flowchart_Esc3_ESP.59.NILA,,Puedes dormir aquí y mañana te acompañaré para que puedas salir.,Puedes dormir aquí y mañana te acompañaré para que puedas salir.,Pots dormir aquí i demà t'acompanyaré perquè puguis sortir.,You can sleep here
+MENU.Flowchart_Esc3_ESP.57,,"¿Y tú qué sabrás? No tienes ni idea, no me conoces.","¿Y tú qué sabrás? No tienes ni idea, no me conoces.","I tu que sabràs? No tens ni idea, no em coneixes.",And how do you know? You have no idea; you don't even know me.
+MENU.Flowchart_Esc3_ESP.56,,"No me hace falta que me la quite, seguro que es mejor que mi cara.","No me hace falta que me la quite, seguro que es mejor que mi cara.","No em fa falta que me la tregui, segur que és millor que la meva cara","I don't need it off, I bet it’s better than my face."
+MENU.Flowchart_Esc3_ESP.55,,"No sé si eso me da esperanza, o aún más miedo","No sé si eso me da esperanza, o aún más miedo",No sé si això em dona esperança o encara més por,I don't know if that makes me feel hopeful or afraid.
+SAY.Flowchart_Esc3_ESP.54.NILA,,Tú también tienes algo especial.,Tú también tienes algo especial.,Tu també tens alguna cosa...,There's something about you as well.
+SAY.Flowchart_Esc3_ESP.53.NILA,,Y no solo es la máscara.,Y no solo es la máscara.,I no només és la mascara., And it's not just the mask.
+SAY.Flowchart_Esc3_ESP.52.NILA,,"Es mágica, no te\nla vas a poder quitar.","Es mágica, no te la vas a poder quitar.","És especial, no te la podràs treure.","It's special, you won't be able to take it off."
+SAY.Flowchart_Esc3_ESP.51.NILA,,...,...,...,...
+SAY.Flowchart_Esc3_ESP.50.NILA,,Déjame verla...,Déjame verla...,Deixa'm veure-la...,Let me see that...
+SAY.Flowchart_Esc3_ESP.49.,,Aparecí con ella y la máscara.,Aparecí con ella y la máscara.,Vaig aparèixer amb ella i la màscara.,I woke up with this robe and the mask.
+MENU.Flowchart_Esc3_ESP.47,,Es más triste estar sola en un bosque,Es más triste estar sola en un bosque,És més trist estar sola en un bosc.,It's sadder to be by yourself in some forest.
+MENU.Flowchart_Esc3_ESP.90,,"Te lo agradezco, pero deseo partir esta noche y no sé cómo salir","Te lo agradezco, pero deseo partir esta noche y no sé cómo salir","T'ho agraeixo, però desitjo marxar aquesta nit i no sé com.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.89,,"Gracias, pero espera un momento. Quiero contarte algo.","Gracias, pero espera un momento. Quiero contarte algo.","Gràcies, però espera un moment. Vull dir-te una cosa.","Thanks, but wait a second, I want to tell you something else."
+MENU.Flowchart_Esc3_ESP.88,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and may you rest well too."
+SAY.Flowchart_Esc3_ESP.85.NILA,,Esta noche puedes dormir aquí.,Esta noche puedes dormir aquí.,Aquesta nit pots dormir aquí.,You can sleep here tonight.
+SAY.Flowchart_Esc3_ESP.84.NILA,,Pero mañana te acompañaré a la\nsalida del bosque y te marcharás.,Pero mañana te acompañaré a la\nsalida del bosque y te marcharás.,Però demà t'acompanyaré a la sortida del bosc i marxaràs.,"But tomorrow I'll show you the way out of this forest, and you will go away."
+SAY.Flowchart_Esc3_ESP.83.NILA,,Está bien.,Está bien.,Està bé.,That's fine.
+MENU.Flowchart_Esc3_ESP.95,,Adiós,Adiós,Adéu,Bye
+MENU.Flowchart_Esc3_ESP.94,,"Lo siento, estoy perdido y asustado","Lo siento, estoy perdido y asustado","Ho sento, estic perdut i espantat","I'm sorry, I'm lost and afraid."
+SAY.Flowchart_Esc3_ESP.93.NILA,,Márchate de mí bosque,Márchate de mí bosque,Marxa't del meu bosc,Get out of my forest now.
+SAY.Flowchart_Esc3_ESP.92.NILA,,No permito que digas eso.,No permito que digas eso.,No et permeto que em parlis així.,I won't allow you to say this.
+MENU.Flowchart_Esc3_ESP.96,,Márchate tú,Márchate tú,Marxa't tu,You go away!
+SAY.Flowchart_Esc3_ESP.115.,,NILA entregó a ti una FRUTA MÁGICA,NILA entregó a ti FRUTAS MÁGICAS,La NILA t'entregà FRUITES MÀGIQUES,You obtain from NILA MAGICS FRUITS
+MENU.Flowchart_Esc3_ESP.118,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agraeixo, però desitjo anar-me'n aquesta nit.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.117,,"Gracias, pero espera un momento. Quiero contarte algo.","Gracias, pero espera un momento. Quiero contarte algo.","Gràcies, però espera un moment. Vull dir-te una cosa.","Thanks, but wait a second, I want to tell you something else."
+MENU.Flowchart_Esc3_ESP.116,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and may you rest too."
+SAY.Flowchart_Esc3_ESP.114.NILA,,"Toma, necesitarás esto.","Toma, necesitarás esto.","Té, ho necessitaràs.","Here, take this, you'll need it."
+SAY.Flowchart_Esc3_ESP.113.NILA,,Quédate a dormir y mañana te ayudaré a salir.,Quédate a dormir y mañana te ayudaré a salir.,Queda't a dormir i demà t'ajudaré a sortir.,"Stay for the night, tomorrow I'll show you the way out."
+SAY.Flowchart_Esc3_ESP.112.NILA,,Haberlo dicho antes.,Haberlo dicho antes.,Haver-ho dit abans.,You should have told me earlier.
+MENU.Flowchart_Esc3_ESP.110,,A una niña como tú no le incumben estos temas,A una niña como tú no le incumben estos temas,A una nena com tu no t'incumbeix aquests temes,These are not matters for a kid like you.
+MENU.Flowchart_Esc3_ESP.109,,"Así es, vengo en nombre del rey","Así es, vengo en nombre del rey","Així és, vinc en nom del rei","That's it, I come under the king's command."
+MENU.Flowchart_Esc3_ESP.108,,"Sí, me envió él","Sí, me envió él","Sí, m'envia ell","Yes, it was him who sent me."
+SAY.Flowchart_Esc3_ESP.107.NILA,,¿Te ha enviado Rynold a verme?\n¿Por eso tienes esa máscara?,¿Te ha enviado Rynold a verme?\n¿Por eso tienes esa máscara?,T'ha enviat el Rynold a veurem?\nPer això tens la màscara?,Did Rynold sent you to see me?\nIs that why you have that mask?
+MENU.Flowchart_Esc3_ESP.105,,¿Te atreves a amenazarme?,¿Te atreves a amenazarme?,T'atreveixes a amenaçar-me?,You dare to threaten me?
+MENU.Flowchart_Esc3_ESP.104,,"Ya te lo he dicho, no es mentira","Ya te lo he dicho, no es mentira","Ja t'ho he dit, no és mentida.","I told you already, it's not a lie."
+MENU.Flowchart_Esc3_ESP.103,,"Lo único que sé es mi nombre, lo tenía aquí apuntado","Lo único que sé es mi nombre, lo tenía aquí apuntado","L'únic que sé és el meu nom, el tinc aquí apuntat",The only thing I know is my name. I had it written here.
+SAY.Flowchart_Esc3_ESP.102.NILA,,¿De dónde eres? No te atrevas a volver a mentirme.,¿De dónde eres? No te atrevas a volver a mentirme.,D’on ets? No t'atreveixis a mentir-me un altre cop.,Where are you from? Don't try to fool me again.
+MENU.Flowchart_Esc3_ESP.100,,Atrévete,Atrévete,Atreveix-te,You can try to
+MENU.Flowchart_Esc3_ESP.99,,Adiós,Adiós,Adéu,Bye
+SAY.Flowchart_Esc3_ESP.98.NILA,,Márchate si no quieres que te mate ahora mismo.,Márchate si no quieres que te mate ahora mismo.,Marxa't si no vols que et mati ara mateix.,Go away before I kill you.
+MENU.Flowchart_Esc3_ESP.141,,No te atrevas a hablarme así soy un enviado. Que tú no conozcas al rey no es mi problema.,No te atrevas a hablarme así soy un enviado. Que tú no conozcas al rey no es mi problema.,"No t'atreveixis a parlar-me així, sóc un enviat. Que tu no el coneguis no és el meu problema.","Don't you dare speak to me this way, I'm an envoy. The fact that you don't know our King is not my problem."
+MENU.Flowchart_Esc3_ESP.140,,En realidad me he perdido,En realidad me he perdido,En realitat m'he perdut,"Actually, I'm lost."
+SAY.Flowchart_Esc3_ESP.139.NILA,,¿Qué haces en mi bosque?,¿Qué haces en mi bosque?,Què fas en el meu bosc?,What are you doing in my forest?
+SAY.Flowchart_Esc3_ESP.138.NILA,,No hay ningún rey en estas tierras.\nTienes una última oportunidad para responder.,No hay ningún rey en estas tierras.\nTienes una última oportunidad para responder.,No hi ha cap rei en aquestes terres.\nTens una última oportunitat per respondre.,You don't even know how to lie. There's no king on these lands.\nThis is your last chance.
+SAY.Flowchart_Esc3_ESP.137.NILA,,Nisiquiera sabes mentir.,Nisiquiera sabes mentir.,Ni tan sols saps mentir.,You can not even lie.
+MENU.Flowchart_Esc3_ESP.135,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agraeixo, però desitjo anar-me'n aquesta nit.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.134,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and may you rest too."
+SAY.Flowchart_Esc3_ESP.133.NILA,,"Puedes quedarte a dormir si quieres, pero mañana te llevaré a la salida del bosque.","Puedes quedarte a dormir si quieres, pero mañana te llevaré a la salida del bosque.","Pots quedar a dormir si vols, però l'endemà et portaré a la sortida del BOSC","You can sleep here if you wish to, but tomorrow I'll get you out of this forest."
+MENU.Flowchart_Esc3_ESP.131,,"Siento decírtelo, pero nadie va echarte de menos.","Siento decírtelo, pero nadie va echarte de menos.","Sento dir-t'ho, però ningú et trobarà a faltar.","I'm sorry to tell you, but no one will miss you."
+MENU.Flowchart_Esc3_ESP.130,,No voy a perder más el tiempo hablando contigo,No voy a perder más el tiempo hablando contigo,No perdré més temps parlant amb tu,I'm not gonna spend any more time talking to you.
+MENU.Flowchart_Esc3_ESP.129,,"Lo siento, no pienso con claridad, estoy muy cansado","Lo siento, no pienso con claridad, estoy muy cansado","Ho sent-ho, no penso amb claredat, estic molt cansat","I'm sorry, I'm not thinking straight. I'm so tired."
+SAY.Flowchart_Esc3_ESP.128.NILA,,Discúlpate o reza.,Discúlpate o reza.,Disculpa't o resa.,Apologise now or pray.
+MENU.Flowchart_Esc3_ESP.126,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agraeixo, però desitjo anar-me'n aquesta nit.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.124,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and may you rest too."
+SAY.Flowchart_Esc3_ESP.120.NILA,,Creo que estás cansado. Deberías descansar.,Creo que estás cansado. Deberías descansar.,Crec que estàs cansat. Hauries de descansar.,I think you are tired. You should rest.
+MENU.Flowchart_Esc3_ESP.162,,Adiós,Adiós,Adéu,Bye
+MENU.Flowchart_Esc3_ESP.144,,"Este bosque no es tuyo, tú eres quien debe marcharse","Este bosque no es tuyo, tú eres quien debe marcharse","Aquest bosc no és teu, tu ets qui s'ha de marxar.","This forest is not yours, you are the one that must go away."
+MENU.Flowchart_Esc3_ESP.143,,"Le contaré esto al rey, y hará justicia","Le contaré esto al rey, y hará justicia","Li explicaré això al rei, i farà justícia.","I will speak to the King about this, and there will be justice."
+SAY.Flowchart_Esc3_ESP.142.NILA,,Entonces lo que te pase a ti tampoco es mi problema. ¡Márchate de mi bosque!,Entonces lo que te pase a ti tampoco es mi problema. ¡Márchate de mi bosque!,Doncs el que et passi tampoc és el meu problema. Marxa del meu bosc!,Then what happens to you is not my problema either. Get out of my forest!
+SAY.Flowchart_Esc3_ESP.160.NILA,,Entonces márchate ahora mismo.,Entonces márchate ahora mismo.,Doncs marxa ara mateix.,Then go away right now.
+SAY.Flowchart_Esc3_ESP.158.NILA,,"Puedes quedarte esta noche aquí, pero mañana por la mañana te llevaré a la salida del bosque para que te marches.","Puedes quedarte esta noche aquí, pero mañana por la mañana te llevaré a la salida del bosque para que te marches.","Pots quedar-te aquesta nit aquí, però demà al matí et portaré a la sortida perquè marxis.","You can stay here tonight, but early tomorrow I'll get you out of the forest and you will go away."
+MENU.Flowchart_Esc3_ESP.157,,"Te lo agradezco, pero deseo partir esta noche.","Te lo agradezco, pero deseo partir esta noche.","T'ho agraeixo, però desitjo anar-me'n aquesta nit.","I thank you, but I wish to go tonight."
+MENU.Flowchart_Esc3_ESP.156,,"Muchas gracias, y que descanses","Muchas gracias, y que descanses","Moltes gràcies, i que descansis","Thank you so much, and may you rest too."
+SAY.Flowchart_Esc3_ESP.155.NILA,,Está bien.,Está bien.,Està bé.,Okay.
+MENU.Flowchart_Esc3_ESP.153,,No tengo por qué decírtelo. Ni siquiera te conozco.,No tengo por qué decírtelo. Ni siquiera te conozco.,No tinc per què dir-t'ho. Ni tan sols et conec.,I don't have to tell you anything. I don't even know you.
+MENU.Flowchart_Esc3_ESP.152,,No lo sé. Aparecí con ella.,No lo sé. Aparecí con ella.,"No ho sé, vaig aparèixer amb ella.",I don't know. I woke up with it.
+SAY.Flowchart_Esc3_ESP.151.NILA,,¿Quién eres y por qué llevas esa máscara?,¿Quién eres y por qué llevas esa máscara?,Qui ets i per què portes aquesta màscara?,"Who are you, and why are you wearing that mask?"
+MENU.Flowchart_Esc3_ESP.166,,Lárgate. No tendré piedad porque seas una niña.,Lárgate. No tendré piedad porque seas una niña.,Marxa't. No tindré pietat perquè siguis una nena.,Go away. I won't hesitate just because you are a kid.
+MENU.Flowchart_Esc3_ESP.165,,"No es tu bosque, mi família lo ha comprado y tú debes irte.","No es tu bosque, mi família lo ha comprado y tú debes irte.","No és el teu bosc, la meva família l'ha comprat i tens que enarten.",This is not your forest anymore. My family bought it and you must get out.
+MENU.Flowchart_Esc3_ESP.164,,"Tienes razón, soy un maleducado. Me he perdido y necesito que me ayudes a salir.","Tienes razón, soy un maleducado. Me he perdido y necesito que me ayudes a salir.","Tens raó, sóc un maleducat. M'he perdut i necessito que m'ajudis a sortir.","You are right, I'm so rude. I'm lost and I need help getting out."
+SAY.Flowchart_Esc3_ESP.163.NILA,,"Esta es mi casa. Tú respondes a mis preguntas y yo nosotros te dejamos vivir, así funciona mi bosque.","Esta es mi casa. Tú respondes a mis preguntas y yo nosotros te dejamos vivir, así funciona mi bosque.","Aquesta és la meva casa. Tu respondràs a les meves preguntes i nosaltres et deixem viure, així funciona el meu bosc.",This is my home. You answer my questions and we will let you live. This is how my forest works.
+MENU.Flowchart_Esc3_ESP.172,,Volver al BOSQUE,Volver al BOSQUE,Tornar al BOSC,Back to FOREST
+SAY.Flowchart_Esc3_ESP.170.,,Has vencido a NILA.,Has vencido a NILA y JACK.,Has vençut a NILA i en JACK.,NILA & JACK were defeated.
+MENU.Flowchart_Esc3_ESP.174,,Volver al principio del BOSQUE,Volver al principio del BOSQUE,Tornar al principi del BOSC,Back to FOREST
+SAY.Flowchart_Esc3_ESP.445.,,,,,
+MENU.Flowchart_Esc3_ESP.371,,(6C),,,
+SAY.Flowchart_Esc3_ESP.443.,,,,,
+SAY.Flowchart_Esc3_ESP.444.,,,,,
+SAY.Flowchart_Esc3_ESP.238.NILA,,Ve a hablar con Dard y dile lo que has visto.,"Ahora ves a la ciudad, a lo mejor a ti te creen...","Ara vés a la ciutat, potser a tu et creuen...","Now, go to the city, they might believe you..."
+SAY.Flowchart_Esc3_ESP.237.NILA,,"Y si no, al menos quizás te creen.",Yo te prestaré mi ayuda cuando la necesites.,Jo t'ajudaré quan em necessitis.,"In exchange, I'll help you when you'll be in need..."
+SAY.Flowchart_Esc3_ESP.234.NILA,,"Si lo has entendido, seguro que eres de ayuda.","Si lo has entendido, seguro que eres de ayuda.","Si ho has entès, segur que seràs d'ajuda.","If you understood that, you will be of help for sure."
+SAY.Flowchart_Esc3_ESP.233.NILA,,Willië!,Willië!,Willië!,Willië!
+MENU.Flowchart_Esc3_ESP.231,,"No sé quién soy, tengo una máscara que no puedo quitarme y me falta un brazo. Creo que no puedo ayudarte.","No sé quién soy, tengo una máscara que no puedo quitarme y me falta un brazo. Creo que no puedo ayudarte.","No sé ni qui sóc, tinc una mascara que no puc treure'm i em falta un braç. Crec que no puc ajudar-te.","I don't know who I am, I have this mask that I can't get off my face, and my arm is missing. I don't think I can help you."
+MENU.Flowchart_Esc3_ESP.230,,¿Puedo hacer algo para ayudarte?,¿Puedo hacer algo para ayudarte?,Puc fer alguna cosa per ajudar-te?,What can I do to help?
+SAY.Flowchart_Esc3_ESP.229.NILA,,Soy mucho más fuerte y lista que la mayoría de ellos. Pero se empeñan a verme como un engendro cuando el verdadero monstruo está a punto de llegar.,Soy mucho más fuerte y lista que la mayoría de ellos. Pero se empeñan a verme como un engendro cuando el verdadero monstruo está a punto de llegar.,Sóc molt més forta i llesta que la majoria d’ells. Però es capfiquen en veurem com una aberració quan el veritable monstre està a punt d’arribar.,"I'm stronger and smarter than all of them. But they see me as a monster, when the real monster is about to arrive."
+SAY.Flowchart_Esc3_ESP.227.NILA,,"Esto no debería estar ocurriendo tan pronto. Intentaré advertir a la ciudad, pero nadie me cree.","Esto no debería estar ocurriendo tan pronto. Intentaré advertir a la ciudad, pero nadie me cree.","Això no hauria de passar tan aviat. Vaig intentar avisar a la ciutat, però ningú em creu.","This shouldn't be happening so soon. I tried warning the city, but no one believed me."
+MENU.Flowchart_Esc3_ESP.225,,"No me hagas caso, son cosas del cansancio.","No me hagas caso, solo son cuentos.","No em facis cas, només són comptes.","Don't mind me, these are just tales."
+MENU.Flowchart_Esc3_ESP.224,,"Y de lo que estoy seguro, es de que era enorme.",Palabras que derrotan ejércitos y un rey sin compasión.,Paraules que derroten exèrcits i un rei sense compassió.,Words that could defeat armies and a king with no compassion.
+SAY.Flowchart_Esc3_ESP.223.NILA,,¿A qué te refieres?,¿A qué te refieres?,A què et refereixes?,What do you want to tell me?
+MENU.Flowchart_Esc3_ESP.221,,"Bueno, no es nada.","Bueno, no es nada.","Res, no és res.","Well, it's nothing important really."
+MENU.Flowchart_Esc3_ESP.220,,"Antes, desde la torre, vi algo... raro.","Antes, hablé con una chica en la torre... cantó lo que parecían viejas historias.","Abans, he parlat amb una noia en la torre... cantava el que semblaven velles històries.",I spoke to a girl in the tower. She sang what seemed like old stories.
+SAY.Flowchart_Esc3_ESP.219.NILA,,¿De qué se trata?,¿De qué se trata?,De què es tracta?,What do you mean?
+SAY.Flowchart_Esc3_ESP.273.,,Has obtenido el BASTÓN de NILA,Has obtenido el BASTÓN de NILA,Ha obtingut el BASTÓ de la NILA,You obtain from NILA her CANE
+SAY.Flowchart_Esc3_ESP.245.,,(WILLIË) Aprendió a utilizar el hechizo.,(WILLIË) Aprendió a utilizar el hechizo.,(WILLIË) Ha après a utilitzar l'encís.,(WILLIË) You've learnt the magic world.
+SAY.Flowchart_Esc3_ESP.275.,,¡Ha obtenido {$valXP} puntos de experiencia!,¡Ha obtenido {$valXP} puntos de experiencia!,Ha obtingut {$valXP} punts d'experiència!,You obtain {$valXP} XP!
+SAY.Flowchart_Esc3_ESP.274.,,¡Ha obtenido una AYUDA para el COMBATE FINAL!,¡Ha obtenido una AYUDA para el COMBATE FINAL!,Ha obtingut una AJUDA per al COMBAT FINAL!,You obtain a HELP for FINAL BATTLE!
+SAY.Flowchart_Esc3_ESP.279.,,¡Ha obtenido {$valXP} puntos de experiencia!,¡Ha obtenido {$valXP} puntos de experiencia!,Ha obtingut {$valXP} punts d'experiència!,You obtain {$valXP} XP!
+MENU.Flowchart_Esc3_ESP.301,,Adentrarse en el BOSQUE,Adentrarse en el BOSQUE,Endinsar-se en el BOSC,Under to FOREST
+SAY.Flowchart_Esc3_ESP.446.,,,,,
+MENU.Flowchart_Esc3_ESP.343,,(Hoguera - Bosque mágico),,,
+MENU.Flowchart_Esc3_ESP.351,,(5C),,,
+MENU.Flowchart_Esc3_ESP.353,,(ACANTILADO),,,
+SAY.Flowchart_Esc3_ESP.439.,,¡Ha obtenido {$valXP} puntos de experiencia!,¡Ha obtenido {$valXP} puntos de experiencia!,Ha obtingut {$valXP} punts d'experiència!,You obtain {$valXP} XP!
+SAY.Flowchart_Esc3_ESP.598.,,Estás en el LABERINTO del BOSQUE,Estás en el LABERINTO del BOSQUE,Estàs al LABERINT del BOSC,You're on LABERYNTH FOREST
+SAY.Flowchart_Esc3_ESP.599.,,Estás en el BOSQUE MÁGICO,Estás en el BOSQUE MÁGICO,Estàs al BOSC MÀGIC,You're on MAGIC FOREST

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00-Splash.unity
+    guid: 70613fe493e9ebe4e85082acb7b57cbc
+  - enabled: 1
+    path: Assets/Scenes/00-MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/00-EnterGame.unity
+    guid: 877d055bb4c43e14db21d6d6f7222b59
+  - enabled: 1
+    path: Assets/Scenes/01-Cueva.unity
+    guid: f4de4a6ce3b49af46a0d670ea55c5625
+  - enabled: 1
+    path: Assets/Scenes/02-Cruce.unity
+    guid: 18250840ea70ad84681ce25495dc1e71
+  - enabled: 1
+    path: Assets/Scenes/03-Bosque.unity
+    guid: 77b1cef476c19b64d9a9d45c8701a344
+  - enabled: 1
+    path: Assets/Scenes/03b-Acantilado.unity
+    guid: 09616255f5f06e34fbdba55f9cceab4b
+  - enabled: 1
+    path: Assets/Scenes/04-Torre.unity
+    guid: d8d4727d05123b04da216fb3a70fc547
+  - enabled: 1
+    path: Assets/Scenes/06-Iglesia.unity
+    guid: c2bb06eda27e74c42a2390debcda1a46
+  - enabled: 1
+    path: Assets/Scenes/AA-BatallaBarda.unity
+    guid: 63b9c8e7ef882394698cb59ffd404399
+  - enabled: 1
+    path: Assets/Scenes/AA-BatallaNilaJack.unity
+    guid: 5a0f6e11181cf944ea1063a88f06502d
+  - enabled: 1
+    path: Assets/Scenes/AA-BatallaVsTitan.unity
+    guid: 0fead1fa18bb56347957d4160ef989a5
+  - enabled: 1
+    path: Assets/Scenes/AA-BatallaVsTitan_NJ.unity
+    guid: 2e2f5f8630a9c0843bf0cae09b984ab2
+  - enabled: 1
+    path: Assets/Scenes/FF-EndMenu.unity
+    guid: a17fc7ffdc83add4ab1a46f90d03785d
+  - enabled: 1
+    path: Assets/Scenes/FF-GameOver.unity
+    guid: 1562c4af804727549a3b57f011b2852e
+  m_configObjects: {}

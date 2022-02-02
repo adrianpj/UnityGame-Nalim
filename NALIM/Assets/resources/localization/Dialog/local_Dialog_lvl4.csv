@@ -1,0 +1,50 @@
+Key,Description,Standard,Spanish,Catalan,English
+CHARACTER.BARDA,,BARDA,BARDA,BARDA,BARDA
+MENU.Flowchart_Esc4_ESP.7,,Volver al CRUCE,Volver al CRUCE,Tornar a l'ENCREUAMENT,Back to CROSSGROUND
+MENU.Flowchart_Esc4_ESP.20,,Bajar de la TORRE,Bajar de la TORRE,Baixar de la TORRE,Down to TOWER
+MENU.Flowchart_Esc4_ESP.4,,Escaleras,Escaleras,Escales,Climb to scales
+MENU.Flowchart_Esc4_ESP.6,,Volando,Volando,Volant,Flying
+MENU.Flowchart_Esc4_ESP.19,,Seguir esperando,Seguir esperando,Seguir esperant,Keep waiting
+MENU.Flowchart_Esc4_ESP.17,,Bajar de la TORRE,Bajar de la TORRE,Baixar de la TORRE,Down to TOWER
+MENU.Flowchart_Esc4_ESP.16,,Esperar,Esperar,Esperar,Wait
+MENU.Flowchart_Esc4_ESP.14,,Cima de la TORRE,Cima de la TORRE,Cim de la TORRE,Top at TOWER
+MENU.Flowchart_Esc4_ESP.10,,Cima de la TORRE,Cima de la TORRE,Cim de la TORRE,Top at TOWER
+MENU.Flowchart_Esc4_ESP.33,,"Ayúdame, tengo un problema.","Ayúdame, tengo un problema.","Ajuda'm, tinc un problema.","Help me, I have a problem."
+MENU.Flowchart_Esc4_ESP.29,,Hablar con BARDA,Hablar con BARDA,Parlar amb la BARDA,Ask BARDA
+MENU.Flowchart_Esc4_ESP.32,,"Siento interrumpirte, ¿me podría ayudar?","Siento interrumpirte, ¿me podría ayudar?","Sento interrompre, em podries ajudar?","Sorry to interrupt, but could you help me?"
+SAY.Flowchart_Esc4_ESP.44.BARDA,,"Si no tienes dónde ir, puedes venir a verme en la posada. En la ciudad habrá más gente que te pueda ayudar.","Si no tienes dónde ir, puedes venir a verme en la posada. En la ciudad habrá más gente que te pueda ayudar.","Si no tens on anar, pots venir a veurem a la posada. En la ciutat hi haurà més gent que et pugui ajudar.","If you don't have anywhere to go to, you can come see me in the inn. There will be people that may help you in the city."
+SAY.Flowchart_Esc4_ESP.39.BARDA,,Si puedo serte de ayuda...,Si puedo serte de ayuda...,Si puc ser-te d'ajuda...,If I can be of help...
+MENU.Flowchart_Esc4_ESP.37,,(Marchar),(Marchar),(Fugir),(Escape)
+MENU.Flowchart_Esc4_ESP.36,,(Atacar),(Atacar),(Atacar),(Fight)
+MENU.Flowchart_Esc4_ESP.35,,¡AAAAAAAAAAAAAAAAAHHH!,¡AAAAAAAAAAAAAAAAAHHH!,AAAAAAAAAAAAAAAAAHHH!,AAAAAAAAAAAAAAAAAHHH!
+MENU.Flowchart_Esc4_ESP.42,,"En realidad, mejor nada... No quiero causarte problemas, disculpa.","En realidad, mejor nada... No quiero causarte problemas, disculpa.","En realitat, millor res... No vull donar-te més problemes, ho sento.","Actually, it's nothing... I don't want to cause you any trouble, I'm sorry."
+MENU.Flowchart_Esc4_ESP.40,,No recuerdo nada y no sé dónde ir.,No recuerdo nada y no sé dónde ir.,No recordo res i no sé on anar.,I don't remember anything, and I don't know where I should go.
+MENU.Flowchart_Esc4_ESP.51,,Marcharse de LA CIMA DE LA TORRE,Marcharse de LA CIMA DE LA TORRE,Anar-se'n DEL CIM DE LA TORRE,Down TOP AT TOWER
+MENU.Flowchart_Esc4_ESP.46,,¿Sabes algo sobre esta máscara?,¿Sabes algo sobre esta máscara?,Saps alguna cosa sobre aquesta màscara?,Do you know anything about this mask?
+MENU.Flowchart_Esc4_ESP.45,,¿Y tú por qué estás aquí?,¿Y tú por qué estás aquí?,I tu per què estàs aquí?,And why are you here?
+MENU.Flowchart_Esc4_ESP.47,,¿Cómo llego a la ciudad?,¿Cómo llego a la ciudad?,Com arribo a la ciutat?,How do I get to the city?
+MENU.Flowchart_Esc4_ESP.50,,No recuerdo nada y no sé dónde ir.,No recuerdo nada y no sé dónde ir.,No recordo res i no sé on anar.,I don't know nothing and way go on.
+SAY.Flowchart_Esc4_ESP.49.BARDA,,"Para llegar a Dard, la forma más rápida es cruzar el bosque.","Para llegar a Dard, la forma más rápida es cruzar el bosque.","Per arribar a Dard, la forma més ràpida és creuar el bosc.","To reach Dard, the fastest way is going crossing through the forest."
+MENU.Flowchart_Esc4_ESP.91,,(Marchar),(Marchar),(Fugir),(Escape)
+SAY.Flowchart_Esc4_ESP.66.,,...,...,...,...
+MENU.Flowchart_Esc4_ESP.63,,Marcharse de LA CIMA DE LA TORRE,Marcharse de LA CIMA DE LA TORRE,Anar-se'n DEL CIM DE LA TORRE,Down TOP AT TOWER
+MENU.Flowchart_Esc4_ESP.62,,No recuerdo nada y no sé dónde ir.,No recuerdo nada y no sé dónde ir.,No recordo res i no sé on anar.,I don't know nothing and way go on.
+SAY.Flowchart_Esc4_ESP.61.BARDA,,A parte de que aquí nadie más lleva máscaras... no.,A parte de que aquí nadie más lleva máscaras... no.,A part de que aquí ningú més porta màscares... no.,"Besides you, no one wears masks around here..."
+MENU.Flowchart_Esc4_ESP.59,,"Lo siento, pero no tengo tiempo.","Lo siento, pero no tengo tiempo.","Ho sento, però no tinc temps.","I'm sorry, but I don't have time for it."
+MENU.Flowchart_Esc4_ESP.58,,Será un placer,Será un placer,Serà un plaer,It will be a pleasure
+SAY.Flowchart_Esc4_ESP.57.BARDA,,¿Quieres escucharlo?,¿Quieres escucharlo?,Vols escoltar-ho?,Do you want to listen to it?
+SAY.Flowchart_Esc4_ESP.56.BARDA,,Estoy practicando para la actuación de esta noche.,Estoy practicando para la actuación de esta noche.,Estic practicant per la actuació d'aquesta nit.,I'm practicing for tonights performance.
+MENU.Flowchart_Esc4_ESP.70,,Marcharse de LA CIMA DE LA TORRE,Marcharse de LA CIMA DE LA TORRE,Anar-se'n DEL CIM DE LA TORRE,Down TOP AT TOWER
+MENU.Flowchart_Esc4_ESP.69,,No recuerdo nada y no sé dónde ir.,No recuerdo nada y no sé dónde ir.,No recordo res i no sé on anar.,I don't know nothing and way go on.
+MENU.Flowchart_Esc4_ESP.68,,Marcharse de LA CIMA DE LA TORRE,Marcharse de LA CIMA DE LA TORRE,Anar-se'n DEL CIM DE LA TORRE,Down TOP AT TOWER
+MENU.Flowchart_Esc4_ESP.67,,No recuerdo nada y no sé dónde ir.,No recuerdo nada y no sé dónde ir.,No recordo res i no sé on anar.,I don't know nothing and way go on.
+MENU.Flowchart_Esc4_ESP.73,,No recuerdo nada y no sé dónde ir.,No recuerdo nada y no sé dónde ir.,No recordo res i no sé on anar.,I don't know nothing and way go on.
+SAY.Flowchart_Esc4_ESP.72.BARDA,,Depende de lo que necesites.,Depende de lo que necesites.,Depèn del que necessitis.,Depends on what you need.
+SAY.Flowchart_Esc4_ESP.78.BARDA,,[...],,,
+SAY.Flowchart_Esc4_ESP.79.,,Solo quería que probaras de tu propia medicina.,Solo quería que probaras de tu propia medicina.,Només volia que provéssis de la teva pròpia medicina.,I just wanted you to taste your own medicine.
+SAY.Flowchart_Esc4_ESP.95.,,Has vencido a BARDA,Has vencido a BARDA,Has vençut a BARDA,BARDA was defeated
+MENU.Flowchart_Esc4_ESP.279,,Seguir subiendo escaleras,Seguir subiendo escaleras,Seguir pujant escales,Continuing climbing scales
+SAY.Flowchart_Esc4_ESP.329.,,(Barda's song),,,
+SAY.Flowchart_Esc4_ESP.352.,,Has obtenido la DAGA de BARDA,Has obtenido la DAGA de BARDA,Ha obtingut la DAGA de la BARDA,You obtain from BARDA her DAGGER
+SAY.Flowchart_Esc4_ESP.415.,,¡Ha obtenido {$valXP} puntos de experiencia!,¡Ha obtenido {$valXP} puntos de experiencia!,Ha obtingut {$valXP} punts d'experiència!,You obtain {$valXP} XP!
+SAY.Flowchart_Esc4_ESP.439.,,¡Ha obtenido {$valXP} puntos de experiencia!,¡Ha obtenido {$valXP} puntos de experiencia!,Ha obtingut {$valXP} punts d'experiència!,You obtain {$valXP} XP!

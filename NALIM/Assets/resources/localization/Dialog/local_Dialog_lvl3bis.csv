@@ -1,0 +1,19 @@
+Key,Description,Standard,Spanish,Catalan,English
+SAY._CommandCopyBuffer.19.,,Estás en el CARTEL,,,
+SAY.Flowchart.1.,,En las profundidades,En las profundidades,A les profunditats,In profundness...
+MENU.Flowchart.4,,Esperar,Esperar,Esperar,Wait
+MENU.Flowchart.6,,Levantarse,Levantarse,Llevar-se,Wake up
+MENU.Flowchart.8,,Seguir esperando,Seguir esperando,Seguir esperant,Keep waiting
+SAY.Flowchart.2.,,Pareces no oír nada,Pareces no oír nada,Res sents...,Nothing hears upon you...
+MENU.Flowchart.15,,Salir de la cueva,Salir de la cueva,Sortir de la cova,Exit from CAVE
+MENU.Flowchart.14,,Esperar,Esperar,Esperar,Wait
+MENU.Flowchart.9,,Levantarse,Levantarse,Llevar-se,Wake up
+SAY.Flowchart.12.,,... ... ... ... ... ...\n... ... ... ... ... ...,... ... ... ... ... ...\n... ... ... ... ... ...,... ... ... ... ... ...\n... ... ... ... ... ...,... ... ... ... ... ...\n... ... ... ... ... ...
+SAY.Flowchart.11.,,... ... ... ... ... ...,... ... ... ... ... ...,... ... ... ... ... ...,... ... ... ... ... ...
+SAY.Flowchart.10.,,... ... ...,... ... ...,... ... ...,... ... ...
+SAY.Flowchart.13.,,...,...,...,...
+MENU.Flowchart_Esc3b_ESP.30,,Acercarse al POZO,Acercarse al CARTEL,Acostar-se al CARTELL,Approach to SIGN
+MENU.Flowchart_Esc3b_ESP.4,,Seguir al ACANTILADO,Seguir al ACANTILADO,Seguir al PENYA-SEGAT,Follow to CLIFF
+MENU.Flowchart_Esc3b_ESP.6,,Volver al BOSQUE,Volver al BOSQUE,Tornar al BOSC,Back to FOREST
+MENU.Flowchart_Esc3b_ESP.9,,Volver al BOSQUE,Volver al BOSQUE,Tornar al BOSC,Back to FOREST
+SAY.Flowchart_Esc3b_ESP.43.,,Estás en el ACANTILADO,Estás en el ACANTILADO,Estàs al PENYA-SEGAT,You're in CLIFF
